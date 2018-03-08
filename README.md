@@ -1,1 +1,2 @@
-# signmeapp
+# SignMeApp
+Android application
